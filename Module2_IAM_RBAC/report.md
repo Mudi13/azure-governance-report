@@ -6,8 +6,8 @@
 ## 2. Role Assignments Viewed
 ![Role Assignments](./screenshots/iam02_role_assignments.png)
 
-## 3. Built-in Role Selected
-![Built-in Role](./screenshots/iam03_built_in_role_selected.png)
+## 3. Custom Role Created
+![Custom Role Created](./screenshots/iam03_custom_role_created.png)
 
 ## 4. Role Definition JSON Viewed
 ![Role JSON](./screenshots/iam04_role_json.png)
@@ -33,3 +33,4 @@
 ## Conclusion
 This module demonstrates how to manage Identity and Access in Azure using Role-Based Access Control (RBAC).  
 Key activities included viewing IAM settings, selecting built-in roles, checking role definitions in JSON format, adding and assigning users, creating groups, applying governance policies, verifying changes via the Activity Log, and conducting an access review to maintain the principle of least privilege.
+
