@@ -32,11 +32,30 @@ Each module contains **step-by-step tasks**, **screenshots**, and a detailed `re
 
 ---
 
+Module 3 – Storage Lifecycle Management
+- Storage account lifecycle overview
+- Policy-based data tiering (Hot, Cool, Archive)
+- Blob retention policy configuration
+- Data deletion and archival simulation
+- Access and modification tracking
+- Alert configuration for lifecycle events
+- **[View Report](./Module3_Tagging_ResourceOrganization/report.md)**
+
+---
+
+Module 4 – Azure Monitor & Alerts
+- Azure Monitor overview
+- Metrics explorer and signals visualization
+- Administrative operations alert creation
+- Alert testing and validation
+- **[View Report](./Module4_Monitor_and_Alerts/report.md)**
+
 ## 🛠 Tools & Services Used
 - **Microsoft Azure** Portal  
 - **Azure Resource Groups**  
 - **Azure IAM & RBAC**  
-- **Azure Policy**  
+- **Azure Policy**
+- **Azure Storage**
 - **Azure Advisor**  
 - **Azure Monitor**  
 - **Azure Pricing Calculator**
@@ -48,9 +67,7 @@ The goal of this project is to demonstrate **Azure governance best practices** b
 
 ---
 
-## 🚀 Upcoming Modules
-- **Module 3 – Storage Lifecycle Management**  
-- **Module 4 – Resource Tagging**  
+## 🚀 Upcoming Modules  
 - **Module 5 – Security Posture Assessment**  
 - **Module 6 – Azure Monitor Dashboard**  
 - **Module 7 – Pricing Estimation Tool**
