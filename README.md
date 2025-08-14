@@ -32,18 +32,20 @@ Each module contains **step-by-step tasks**, **screenshots**, and a detailed `re
 
 ---
 
-Module 3 – Storage Lifecycle Management
-- Storage account lifecycle overview
-- Policy-based data tiering (Hot, Cool, Archive)
-- Blob retention policy configuration
-- Data deletion and archival simulation
-- Access and modification tracking
-- Alert configuration for lifecycle events
-- **[View Report](./Module3_Tagging_ResourceOrganization/report.md)**
+### **Module 3 – Tagging & Resource Organization**
+- Step 1 – Tags Page ![Step 1](./module3_step1_tags_page.png)
+- Step 2 – Tag Added Portal ![Step 2](./module3_step2_tag_added_portal.png)
+- Step 3 – Tag Added CLI ![Step 3](./module3_step3_tag_added_cli.png)
+- Step 4 – Policy Assignment Created ![Step 4](./module3_step4_policy_assignment_created.png)
+- Step 5 – Policy Validation ![Step 5](./module3_step5_policy_validation.png)
+- Step 6 – Policy Compliance Current ![Step 6](./module3_step6_policy_compliance_current.png)
+- Step 7 – Resource Compliance ![Step 7](./module3_step7_resource_compliance.png)
+- Step 8 – Cleanup ![Step 8](./module3_step8_cleanup.png)
+
 
 ---
 
-Module 4 – Azure Monitor & Alerts
+### **Module 4 – Azure Monitor & Alerts** 
 - Azure Monitor overview
 - Metrics explorer and signals visualization
 - Administrative operations alert creation
