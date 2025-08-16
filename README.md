@@ -1,7 +1,7 @@
 # Azure Cloud Governance and Monitoring System
 
-This project demonstrates a simulated implementation of **cloud governance and monitoring** in **Microsoft Azure**, covering key governance areas such as cost monitoring, identity and access management (IAM), resource policies, and security best practices.  
-Each module contains **step-by-step tasks**, **screenshots**, and a detailed `report.md` file.
+This project demonstrates a simulated implementation of **cloud governance and monitoring** in **Microsoft Azure**, covering key governance areas such as cost monitoring, identity and access management (IAM), resource policies, monitoring, security, and backup best practices.  
+Each module contains **step-by-step tasks**, **screenshots**, and a detailed `report.md` file (or PDF in the case of Module 7).
 
 ---
 
@@ -79,37 +79,45 @@ Each module contains **step-by-step tasks**, **screenshots**, and a detailed `re
 
 ---
 
+### **Module 7 – Azure Dashboard**
+- Consolidated cost monitoring view  
+- IAM role governance snapshot  
+- Tagging and resource organization compliance  
+- Monitoring metrics and alerts overview  
+- Secure score and compliance posture visualization  
+- Backup instance protection status  
+- Final unified dashboard for governance reporting  
+- **[View Report (PDF)](./Module7_AzureDashboard/Module7_AzureDashboard.pdf)**  
+  *(Note: GitHub preview may not show Module 6 of the PDF. Please download and open locally to view the full report.)*  
+
+---
+
 ## 🛠 Tools & Services Used
-- **Microsoft Azure Portal**
-  (primary interface for resource creation and management)  
-- **Azure Resource Groups**
-  (used to logically organize and manage Azure resources)  
-- **Azure IAM & RBAC**
-  (for role assignments, access control, and identity management)  
-- **Azure Policy**
-  (enforces rules, compliance, and governance across resources)  
-- **Azure Storage**
-  (used for creating storage accounts and managing redundancy options)  
-- **Azure Advisor**
-  (provides cost optimization and security recommendations)  
-- **Azure Monitor**
-  (tracks metrics, creates alerts, and provides monitoring dashboards)  
-- **Azure Pricing Calculator**
-  (used to estimate and forecast Azure costs)  
-- **Microsoft Defender for Cloud**
-  (used in Security & Compliance for recommendations and secure score)  
-- **Azure Security Center**
-  (for policy compliance assessment and remediation actions)  
-- **Azure Backup**
-  (used in Storage Backup module for vault creation, backup policies, and restore simulation)   
+- **Microsoft Azure Portal** – primary interface for resource creation and management  
+- **Azure Resource Groups** – logically organize and manage Azure resources  
+- **Azure IAM & RBAC** – role assignments, access control, and identity management  
+- **Azure Policy** – enforce rules, compliance, and governance across resources  
+- **Azure Storage** – create storage accounts and manage redundancy options  
+- **Azure Advisor** – cost optimization and security recommendations  
+- **Azure Monitor** – track metrics, create alerts, and provide monitoring dashboards  
+- **Azure Pricing Calculator** – estimate and forecast Azure costs  
+- **Microsoft Defender for Cloud** – secure score, recommendations, and compliance insights  
+- **Azure Security Center** – policy compliance assessment and remediation actions  
+- **Azure Backup** – vault creation, backup policies, restore simulation, and disaster recovery  
 
 ---
 
 ## 📌 Project Purpose
-The goal of this project is to demonstrate **Azure governance best practices** by simulating real-world configurations in a way that is **placement-ready** for cloud engineering or DevOps roles.
+The purpose of this project is to learn and practice Azure governance concepts such as cost monitoring, access control, tagging policies, monitoring alerts, security posture, and backup protection.
+By bringing these tasks together in a single report, the project demonstrates how different Azure services work together to build a foundation for cloud governance and monitoring.
 
 ---
 
-## 🚀 Upcoming Modules  
-- **Module 7 – Pricing Estimation Tool**
-
+## 🚀 Completed Modules  
+- Module 1 – Cost Monitoring  
+- Module 2 – IAM & RBAC  
+- Module 3 – Tagging & Resource Organization  
+- Module 4 – Azure Monitor & Alerts  
+- Module 5 – Security and Compliance  
+- Module 6 – Storage Backup  
+- Module 7 – Azure Dashboard (Final Consolidated Report)  
