@@ -80,17 +80,28 @@ Each module contains **step-by-step tasks**, **screenshots**, and a detailed `re
 ---
 
 ## 🛠 Tools & Services Used
-- **Microsoft Azure Portal** (primary interface for resource creation and management)  
-- **Azure Resource Groups** (used to logically organize and manage Azure resources)  
-- **Azure IAM & RBAC** (for role assignments, access control, and identity management)  
-- **Azure Policy** (enforces rules, compliance, and governance across resources)  
-- **Azure Storage** (used for creating storage accounts and managing redundancy options)  
-- **Azure Advisor** (provides cost optimization and security recommendations)  
-- **Azure Monitor** (tracks metrics, creates alerts, and provides monitoring dashboards)  
-- **Azure Pricing Calculator** (used to estimate and forecast Azure costs)  
-- **Microsoft Defender for Cloud** (used in Security & Compliance for recommendations and secure score)  
-- **Azure Security Center** (for policy compliance assessment and remediation actions)  
-- **Azure Backup** (used in Storage Backup module for vault creation, backup policies, and restore simulation)   
+- **Microsoft Azure Portal**
+  (primary interface for resource creation and management)  
+- **Azure Resource Groups**
+  (used to logically organize and manage Azure resources)  
+- **Azure IAM & RBAC**
+  (for role assignments, access control, and identity management)  
+- **Azure Policy**
+  (enforces rules, compliance, and governance across resources)  
+- **Azure Storage**
+  (used for creating storage accounts and managing redundancy options)  
+- **Azure Advisor**
+  (provides cost optimization and security recommendations)  
+- **Azure Monitor**
+  (tracks metrics, creates alerts, and provides monitoring dashboards)  
+- **Azure Pricing Calculator**
+  (used to estimate and forecast Azure costs)  
+- **Microsoft Defender for Cloud**
+  (used in Security & Compliance for recommendations and secure score)  
+- **Azure Security Center**
+  (for policy compliance assessment and remediation actions)  
+- **Azure Backup**
+  (used in Storage Backup module for vault creation, backup policies, and restore simulation)   
 
 ---
 
