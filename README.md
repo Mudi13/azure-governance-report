@@ -62,7 +62,7 @@ Each module contains **step-by-step tasks**, **screenshots**, and a detailed `re
 - Remediation recommendations  
 - Backup status verification  
 - Final security dashboard  
-- **[View Report](./Module5_Security_and_Compliance/report.md)**
+- **[View Report](./Module5_Security_Compliance/report.md)**
 
 ---
 
