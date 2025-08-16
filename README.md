@@ -88,7 +88,7 @@ Each module contains **step-by-step tasks**, **screenshots**, and a detailed `re
 - Backup instance protection status  
 - Final unified dashboard for governance reporting  
 - **[View Report (PDF)](./Module7_AzureDashboard/Module7_AzureDashboard.pdf)**  
-  *(Note: GitHub preview may not show Module 6 of the PDF. Please download and open locally to view the full report.)*  
+ 
 
 ---
 
