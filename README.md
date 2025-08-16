@@ -33,34 +33,64 @@ Each module contains **step-by-step tasks**, **screenshots**, and a detailed `re
 ---
 
 ### **Module 3 – Tagging & Resource Organization**
-- Tags page overview
-- Tag creation via Portal
-- Tag creation via CLI
-- Policy assignment creation
-- Policy validation
-- Policy compliance monitoring
-- Resource compliance verification
-- Cleanup operations
+- Tags page overview  
+- Tag creation via Portal  
+- Tag creation via CLI  
+- Policy assignment creation  
+- Policy validation  
+- Policy compliance monitoring  
+- Resource compliance verification  
+- Cleanup operations  
 - **[View Report](./Module3_Tagging_ResourceOrganization/report.md)**
 
 ---
 
 ### **Module 4 – Azure Monitor & Alerts** 
-- Azure Monitor overview
-- Metrics explorer and signals visualization
-- Administrative operations alert creation
-- Alert testing and validation
+- Azure Monitor overview  
+- Metrics explorer and signals visualization  
+- Administrative operations alert creation  
+- Alert testing and validation  
 - **[View Report](./Module4_Monitor_and_Alerts/report.md)**
+
+---
+
+### **Module 5 – Security and Compliance**
+- Policy overview  
+- Recommendations  
+- Secure score monitoring  
+- Compliance assessment  
+- Remediation recommendations  
+- Backup status verification  
+- Final security dashboard  
+- **[View Report](./Module5_Security_and_Compliance/report.md)**
+
+---
+
+### **Module 6 – Storage Backup**
+- Storage account creation  
+- Redundancy options configuration  
+- Backup vault creation  
+- Backup policy creation  
+- Policy assignment  
+- On-demand backup execution  
+- Simulated restore testing  
+- Cleanup verification  
+- **[View Report](./Module6_Storage_Backup/report.md)**
+
+---
 
 ## 🛠 Tools & Services Used
 - **Microsoft Azure** Portal  
 - **Azure Resource Groups**  
 - **Azure IAM & RBAC**  
-- **Azure Policy**
-- **Azure Storage**
+- **Azure Policy**  
+- **Azure Storage**  
 - **Azure Advisor**  
 - **Azure Monitor**  
-- **Azure Pricing Calculator**
+- **Azure Pricing Calculator**  
+- **Microsoft Defender for Cloud** (used in Security & Compliance for recommendations and secure score)  
+- **Azure Security Center** (for policy compliance and remediation)  
+- **Azure Backup** (used in Storage Backup module for vault, backup policies, and restore simulation)  
 
 ---
 
@@ -70,6 +100,5 @@ The goal of this project is to demonstrate **Azure governance best practices** b
 ---
 
 ## 🚀 Upcoming Modules  
-- **Module 5 – Security Posture Assessment**  
-- **Module 6 – Azure Monitor Dashboard**  
 - **Module 7 – Pricing Estimation Tool**
+
